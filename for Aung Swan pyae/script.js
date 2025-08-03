@@ -1,4 +1,4 @@
-let password = "1234";
+let password = "472021";
 let inputString = "";
 let countdownTimer;
 
@@ -101,4 +101,5 @@ function showPhotos() {
       img.classList.add('show');
     }, 400 * i); // Stagger each photo
   });
+
 }
